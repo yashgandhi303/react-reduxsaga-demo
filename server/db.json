@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Post": 10
+  },
+  "models": {
+    "Post": {
+      "6": "{\"title\":\"Hhow are you\",\"body\":\"lorem ipsum\",\"id\":6}",
+      "7": "{\"title\":\"Hello\",\"body\":\"sad,.masdasdas,d.asd\",\"id\":7}",
+      "9": "{\"title\":\"adfasd\",\"body\":\"asdasda\",\"id\":9}"
+    }
+  }
+}
